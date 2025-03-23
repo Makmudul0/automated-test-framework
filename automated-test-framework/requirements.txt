@@ -1,0 +1,7 @@
+pytest
+selenium
+playwright
+allure-pytest
+pytest-html
+requests
+python-dotenv
